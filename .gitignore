@@ -1,0 +1,3 @@
+# Project exclude paths
+/console/target/
+/core/target/
